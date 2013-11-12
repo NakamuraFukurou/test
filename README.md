@@ -1,3 +1,3 @@
 # Hello World
 
-** GitHub is funtastic service **
+** GitHub is great service **
